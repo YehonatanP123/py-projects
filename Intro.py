@@ -4,5 +4,5 @@ y = int(input("y:"))
 z = x - y
 print(z)
 
-if x > 6:
-    print("X is greater than 6")
+if y > 6:
+    print("Y is greater than 6")
